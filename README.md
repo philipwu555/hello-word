@@ -1,2 +1,3 @@
 # hello-word
-just a try
+just a try; 
+this is my first step, I hope I can make changes.
